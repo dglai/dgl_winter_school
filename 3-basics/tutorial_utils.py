@@ -18,9 +18,7 @@ def load_zachery():
     club_onehot = F.one_hot(club)
     g.ndata.update({'club' : club, 'club_onehot' : club_onehot})
     return g
-
-
-
+    
 def download_and_extract():
     import shutil
     import requests
