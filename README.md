@@ -11,7 +11,7 @@ Agenda
 
 | Session | Material | Presenter |
 |:-------:|:--------:|:---------:|
-Overview of Deep Graph Library (DGL) | [slides](https://github.com/zheng-da/dgl-tutorial-full/blob/master/dgl_api/dgl-www-zz.pptx) | George Karypis |
+Overview of Deep Graph Library (DGL) | [slides](https://github.com/dglai/dgl_winter_school/blob/main/dgl-jhu-tripods-2021.pptx) | George Karypis |
 (Hands-on) DGL & GNN 101 | [notebook](https://github.com/dglai/dgl_winter_school/tree/main/2-dgl101) | Da Zheng
 (Hands-on) GNN models for basic graph tasks | [notebook](https://github.com/dglai/dgl_winter_school/tree/main/3-basics) | Vasileios Ioannidis |
 (Hands-on) GNN mini-batch training | [notebook](https://github.com/dglai/dgl_winter_school/tree/main/4-large_graph) | Soji Adeshina |
